@@ -40,6 +40,13 @@ div h1{
 	font-family: "Merriweather";
 	font-size: 25px;
 }
+
+#home h4{
+	font-size: 45px;
+	margin-bottom: 5px;
+	font-weight: 200;
+}
+
 @media (max-width: 	1000px)
 {
 	#contact{
@@ -59,5 +66,14 @@ div h1{
 	hr{
 		margin: 0px;
 	}
+	#home h4{
+	font-size: 25px;
+}
 
 }
+.rainbow-text {
+  background-image: linear-gradient(to left, green, violet, red, blue, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
