@@ -1,0 +1,63 @@
+body{
+	/*font-family: "Hind Siliguri";*/
+	font-family: "Galada";
+	padding-top: 90px;
+	padding-bottom: 20px;
+}
+
+.content{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 10px solid #17A2B8;
+	font-weight: 100;
+}
+
+.button-center{
+	text-align: center;
+}
+
+div h1{
+	font-weight: 500;
+	font-size: 30px;
+	padding-top: 10px;
+}
+
+.lead{
+	font-size: 15px;
+}
+
+.display-1{
+	font-size: 60px;
+}
+
+#contact{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 30px;
+}
+
+#copyright{
+	font-family: "Merriweather";
+	font-size: 25px;
+}
+@media (max-width: 	1000px)
+{
+	#contact{
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 5px;
+		font-size: 20px;
+	}
+	#copyright{
+		text-align: center;
+		padding-top: 10px;
+		font-size: 10px;
+	}
+	body{
+		padding-bottom: 0px;
+	}
+	hr{
+		margin: 0px;
+	}
+
+}
