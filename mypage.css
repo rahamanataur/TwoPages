@@ -1,7 +1,7 @@
 body{
 	/*font-family: "Hind Siliguri";*/
 	font-family: "Galada";
-	padding-top: 90px;
+	padding-top: 100px;
 	padding-bottom: 20px;
 }
 
@@ -18,7 +18,7 @@ body{
 
 div h1{
 	font-weight: 500;
-	font-size: 30px;
+	font-size: 35px;
 	padding-top: 10px;
 }
 
@@ -42,7 +42,7 @@ div h1{
 }
 
 #home h4{
-	font-size: 45px;
+	font-size: 30px;
 	margin-bottom: 5px;
 	font-weight: 200;
 }
@@ -67,10 +67,18 @@ div h1{
 		margin: 0px;
 	}
 	#home h4{
+	font-size: 20px;
+	}
+	.display-1{
+	font-size: 50px;
+	}
+	div h1{
+	font-weight: 500;
 	font-size: 25px;
+	padding-top: 10px;
+	}
 }
 
-}
 .rainbow-text {
   background-image: linear-gradient(to left, green, violet, red, blue, orange);
   -webkit-background-clip: text;
